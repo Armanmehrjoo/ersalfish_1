@@ -1,7 +1,7 @@
 import telebot
 import datetime
 
-TOKEN = "8112218373:AAG-mpYC0_NamWnbS8d39wRKvVvjenFkb5E"  # جایگزین کنید
+TOKEN = "8112218373:AAHR9NoiDmxC5u32EUodzkQJtrNwDIAeT64"  # جایگزین کنید
 bot = telebot.TeleBot(TOKEN)
 
 # دیکشنری برای ذخیره موقت داده‌ها
